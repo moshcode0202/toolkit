@@ -1,0 +1,11 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Admin User",
+            "role":"Admin User",
+            "phone":"Admin User",
+            "email":"Admin User"
+        }
+    ]
+}
